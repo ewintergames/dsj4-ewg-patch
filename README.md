@@ -1,9 +1,9 @@
-
-# OPIS PATCHA
+# DSJ4 EWG PATCH
+## OPIS PATCHA
 
 DSJ4 #ewgpatch w swoich założeniach ma pogłębić immersję związaną z grą DSJ4. Czy podoła? Odpowiedz sobie sam. Zagraj i się przekonaj.
 
-# CO ZAWIERA PATCH?
+## CO ZAWIERA PATCH?
 
 - przebudowany graficznie interfejs użytkownika
 - nowe tekstury otoczenia, wersja zimowa jak i letnia
