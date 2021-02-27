@@ -15,4 +15,4 @@ DSJ4 #ewgpatch w swoich założeniach ma pogłębić immersję związaną z grą
 - twarz Markusa Eisenbichlera
 - nieco product placementu od #ewg
 
-🌐 <e-wintergames.pl> | #ewgpatch 27.02.2021
+🌐 https://e-wintergames.pl | #ewgpatch 27.02.2021
